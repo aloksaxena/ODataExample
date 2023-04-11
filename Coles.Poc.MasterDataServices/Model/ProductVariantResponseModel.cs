@@ -1,0 +1,47 @@
+﻿namespace Coles.Poc.MasterDataServices.Model;
+
+
+
+// Root myDeserializedClass = JsonConvert.DeserializeObject<List<ProductVariantResponseModel>>(myJsonResponse);
+public record ProductVariantResponseModel(
+	string ItemId,
+	string Uom,
+	string SellItemId,
+	string SearchName,
+	string Name,
+	string Description,
+	string CategoryName,
+	string CategoryId,
+	string SubCategoryName,
+	string SubCategoryId,
+	string ItemClassName,
+	string ItemClassId,
+	string Volume,
+	string VolumeUnit,
+	string PackType,
+	double PhysicalHeightInMM,
+	double PhysicalWidthInMM,
+	double PhysicalDepthInMM,
+	double PhysicalWeightInKG,
+	bool IsShelfFriendlyPackage,
+	int AverageSize,
+	int TareWeight,
+	bool IsWeightedItem,
+	string RemoteDeliveryPickingNotes,
+	string PickingNotes,
+	bool IsReplenishable,
+	bool IsLargeItem,
+	bool IsIgnoreCrowdSubstitution,
+	bool IsHideProductSavings,
+	bool IsLiquorAgeRestriction,
+	bool IsTobaccoAgeRestriction,
+	bool IsSampleItem,
+	bool IsB2BCarton,
+	bool IsB2BExclusive,
+	string Barcode,
+	string BarcodeSetupId,
+	bool IsPrimary,
+	string BarcodeHandlingType,
+	string ModifiedBy,
+	DateTime ModifiedDateTime,bool IsActive
+	);

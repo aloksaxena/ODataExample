@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nF3U5+2C9xoT/CU/RHi5wMv7oEAJoX/ntd0hJE3P2Ls=",
+  "Source": "Coles.PoC.ReportGrpcService",
+  "BasePath": "_content/Coles.PoC.ReportGrpcService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

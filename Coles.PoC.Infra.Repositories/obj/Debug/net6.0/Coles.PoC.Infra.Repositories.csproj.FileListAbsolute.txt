@@ -1,0 +1,17 @@
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\bin\Debug\net6.0\Coles.PoC.Infra.Repositories.deps.json
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\bin\Debug\net6.0\Coles.PoC.Infra.Repositories.dll
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\bin\Debug\net6.0\Coles.PoC.Infra.Repositories.pdb
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\bin\Debug\net6.0\Coles.PoC.Infra.EFCore.dll
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\bin\Debug\net6.0\Coles.PoC.Infra.Repositories.Contracts.dll
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\bin\Debug\net6.0\Coles.PoC.Infra.EFCore.pdb
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\bin\Debug\net6.0\Coles.PoC.Infra.Repositories.Contracts.pdb
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\obj\Debug\net6.0\Coles.PoC.Infra.Repositories.csproj.AssemblyReference.cache
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\obj\Debug\net6.0\Coles.PoC.Infra.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\obj\Debug\net6.0\Coles.PoC.Infra.Repositories.AssemblyInfoInputs.cache
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\obj\Debug\net6.0\Coles.PoC.Infra.Repositories.AssemblyInfo.cs
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\obj\Debug\net6.0\Coles.PoC.Infra.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\obj\Debug\net6.0\Coles.PoC.Infra.Repositories.csproj.CopyComplete
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\obj\Debug\net6.0\Coles.PoC.Infra.Repositories.dll
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\obj\Debug\net6.0\refint\Coles.PoC.Infra.Repositories.dll
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\obj\Debug\net6.0\Coles.PoC.Infra.Repositories.pdb
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.Repositories\obj\Debug\net6.0\ref\Coles.PoC.Infra.Repositories.dll

@@ -1,0 +1,12 @@
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\bin\Debug\net6.0\Coles.PoC.Infra.EFCore.deps.json
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\bin\Debug\net6.0\Coles.PoC.Infra.EFCore.dll
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\bin\Debug\net6.0\Coles.PoC.Infra.EFCore.pdb
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\obj\Debug\net6.0\Coles.PoC.Infra.EFCore.csproj.AssemblyReference.cache
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\obj\Debug\net6.0\Coles.PoC.Infra.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\obj\Debug\net6.0\Coles.PoC.Infra.EFCore.AssemblyInfoInputs.cache
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\obj\Debug\net6.0\Coles.PoC.Infra.EFCore.AssemblyInfo.cs
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\obj\Debug\net6.0\Coles.PoC.Infra.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\obj\Debug\net6.0\Coles.PoC.Infra.EFCore.dll
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\obj\Debug\net6.0\refint\Coles.PoC.Infra.EFCore.dll
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\obj\Debug\net6.0\Coles.PoC.Infra.EFCore.pdb
+C:\Users\ALOK\source\repos\Coles.PoC\Coles.PoC.Infra.EFCore\obj\Debug\net6.0\ref\Coles.PoC.Infra.EFCore.dll

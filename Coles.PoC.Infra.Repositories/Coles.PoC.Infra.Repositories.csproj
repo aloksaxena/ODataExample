@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Coles.PoC.Infra.EFCore\Coles.PoC.Infra.EFCore.csproj" />
+    <ProjectReference Include="..\Coles.PoC.Infra.Repositories.Contracts\Coles.PoC.Infra.Repositories.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
